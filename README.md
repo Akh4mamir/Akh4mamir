@@ -9,6 +9,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="width: 70px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="width: 70px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 70px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="width: 70px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="width: 70px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 70px;"/>          
 </div>
 
 <ul>
@@ -16,6 +19,7 @@
   <li><strong>Java:</strong> Estou começando a estudar Java, mas já posso dizer que, por ser uma linguagem sólida, é uma ótima opção para o Back-End.</li>
   <li><strong>MySQL:</strong> Tenho uma breve experiência com MySQL e continuo estudando para aplicá-lo de maneira mais eficiente e coerente em meus futuros projetos.</li>
   <li><strong>C++:</strong> Possuo um conhecimento básico de C++. Acho crucial estudar ao menos o básico dessa linguagem, pois isso ajuda bastante a compreender melhor o funcionamento das demais linguagens.</li>
+  <li><strong>HTML, CSS e Javascript:</strong> Consigo fazer algumas aplicações básicas com as principais ferramentas de web, mas sigo estudando para elaborar coisas mais complexas.</li>
 </ul>
 <br>
 
