@@ -1,5 +1,3 @@
-<h1>🐍 Área de um entusiasta de Python 🐍</h1>
-
 <h2>Sobre mim</h2>
 <p>Opa, meu nome é Nadson Santana, mas sou apelidado de Nad. Tenho 20 anos e em breve começarei minha graduação em Ciência da Computação.</p>
 
@@ -13,16 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="width: 70px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 70px;"/>          
 </div>
-
-<ul>
-  <li><strong>Python:</strong> Sem sombra de dúvidas, Python é minha linguagem de programação favorita, e consequentemente, a que eu mais possuo afinidade. Sua capacidade na área de Ciência de Dados me atrai bastante, então, ocasionalmente, desenvolvo projetos com ela.</li>
-  <li><strong>Java:</strong> Estou começando a estudar Java, mas já posso dizer que, por ser uma linguagem sólida, é uma ótima opção para o Back-End.</li>
-  <li><strong>MySQL:</strong> Tenho uma breve experiência com MySQL e continuo estudando para aplicá-lo de maneira mais eficiente e coerente em meus futuros projetos.</li>
-  <li><strong>C++:</strong> Possuo um conhecimento básico de C++. Acho crucial estudar ao menos o básico dessa linguagem, pois isso ajuda bastante a compreender melhor o funcionamento das demais linguagens.</li>
-  <li><strong>HTML, CSS e Javascript:</strong> Consigo fazer algumas aplicações básicas com as principais ferramentas de web, mas sigo estudando para elaborar coisas mais complexas.</li>
-</ul>
 <br>
-
 <h2>Panorama geral</h2>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
