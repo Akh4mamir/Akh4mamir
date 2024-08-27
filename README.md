@@ -17,7 +17,7 @@
 <h2>Panorama geral</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akh4mamir&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akh4mamir&layout=compact&theme=dark&height=500" alt="Top Languages" style="height: 195px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akh4mamir&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark&height=500" alt="Top Languages" style="height: 195px;"/>
 </div>
 
 <!--
