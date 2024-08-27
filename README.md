@@ -2,7 +2,8 @@
 <p>Opa, meu nome é Nadson Santana, mas sou apelidado de Nad. Tenho 20 anos e em breve começarei minha graduação em Ciência da Computação.</p>
 
 <h2>Tecnologias</h2>
-<div>
+<br>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="width: 70px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="width: 70px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="width: 70px;"/>
@@ -11,11 +12,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="width: 70px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 70px;"/>          
 </div>
+
 <br>
 <h2>Panorama geral</h2>
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akh4mamir&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akh4mamir&layout=compact&theme=dark&cache_seconds=86400" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akh4mamir&layout=compact&theme=dark&height=500" alt="Top Languages" style="height: 195px;"/>
 </div>
 
 <!--
