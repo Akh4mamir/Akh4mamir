@@ -1,5 +1,5 @@
 <h2>Sobre mim</h2>
-<p>teste</p>
+<p>Opa, meu nome é Nadson Santana, mas sou apelidado de Nad. Tenho 20 anos e em breve começarei minha graduação em Ciência da Computação.</p>
 <h2>Tecnologias</h2>
 <br>
 <div align="center">
